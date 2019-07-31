@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Onur Görgü\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Onur Görgü\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_pixel car.1335517586.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Onur Görgü\Documents\Unity\pixel car" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Script" t="Include">
+          <e p="Car.cs" t="Include" />
+          <e p="CarController.cs" t="Include" />
+          <e p="CarProperty.cs" t="Include" />
+          <e p="CustomCanvasScaler.cs" t="Include" />
+          <e p="Destroyer.cs" t="Include" />
+          <e p="EnemyControl.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="HeartBeatAnimationEffect.cs" t="Include" />
+          <e p="PanelExit.cs" t="Include" />
+          <e p="Scroll.cs" t="Include" />
+        </e>
+        <e p="unity-ui-extensions" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Effects" t="Include">
+              <e p="UIParticleSystem.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="UI Particle Add.shader" t="Include" />
+            <e p="UI Particle AddMultiply.shader" t="Include" />
+            <e p="UI Particle AddSmooth.shader" t="Include" />
+            <e p="UI Particle Alpha Blend.shader" t="Include" />
+            <e p="UI Particle Blend.shader" t="Include" />
+            <e p="UI Particle Multiply.shader" t="Include" />
+            <e p="UI Particle MultiplyDouble.shader" t="Include" />
+            <e p="UI Particle Premultiply Blend.shader" t="Include" />
+            <e p="UI Particle VertexLit Blended.shader" t="Include" />
+            <e p="UISoftAdditive.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="pixel car.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
